@@ -77,6 +77,4 @@ render(){
 export default SignIn;
 
 
-
-
 	
